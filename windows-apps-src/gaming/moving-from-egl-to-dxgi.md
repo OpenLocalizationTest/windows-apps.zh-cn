@@ -411,6 +411,6 @@ In a UWP app, you can close the CoreWindow with [**CoreWindow::Close**](https://
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

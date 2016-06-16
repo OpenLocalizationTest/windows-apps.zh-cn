@@ -52,6 +52,6 @@ Sometimes, it can be useful to provide more information about a feature when a u
 * [Guidelines for app help](guidelines-for-app-help.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

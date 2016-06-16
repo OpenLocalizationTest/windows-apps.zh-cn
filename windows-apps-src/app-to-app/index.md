@@ -28,6 +28,6 @@ In addition to the Share contract, apps can also integrate classic techniques fo
 | [Use EDP to protect enterprise data transferred between apps](use-edp-to-protect-enterprise-data-transferred-between-apps.md) | This topic shows examples of the coding tasks needed to achieve some of the most common data-transfer-related enterprise data protection (EDP) scenarios. |
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

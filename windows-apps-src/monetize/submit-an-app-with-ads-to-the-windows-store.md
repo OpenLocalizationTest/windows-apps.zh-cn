@@ -25,6 +25,6 @@ All apps submitted to the Windows Store must follow the [Windows Store Policies]
  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

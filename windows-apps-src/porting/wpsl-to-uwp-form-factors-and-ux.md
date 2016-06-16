@@ -67,6 +67,6 @@ Refer back to the [maximizing markup and code reuse](wpsl-to-uwp-porting-to-a-uw
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

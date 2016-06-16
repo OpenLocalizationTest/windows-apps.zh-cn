@@ -291,6 +291,6 @@ Next, we create an orbiting 3D cube and apply lighting effects to it.
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

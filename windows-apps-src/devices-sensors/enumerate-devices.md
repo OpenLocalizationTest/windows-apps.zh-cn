@@ -146,6 +146,6 @@ To download a sample showing how to use the [**Windows.Devices.Enumeration**](ht
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

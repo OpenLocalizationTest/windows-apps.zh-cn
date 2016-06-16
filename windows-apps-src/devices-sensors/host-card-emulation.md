@@ -381,6 +381,6 @@ The legacy binary SMS intercept support in Windows Phone 8.1 has been removed an
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

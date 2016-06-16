@@ -101,6 +101,6 @@ The next topic is [Porting business and data layers](wpsl-to-uwp-business-and-da
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

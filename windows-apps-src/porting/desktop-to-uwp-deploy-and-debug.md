@@ -216,6 +216,6 @@ Inside a folder named VFS, you will see folders that contain the DLLs that your 
 
 [Desktop app bridge to UWP code samples on GitHub](https://github.com/Microsoft/DesktopBridgeToUWP-Samples)
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -95,6 +95,6 @@ The system suspends your app whenever the user switches to another app or to the
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

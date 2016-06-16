@@ -26,6 +26,6 @@ This section describes how to print and scan from your Universal Windows app.
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

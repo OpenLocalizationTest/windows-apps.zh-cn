@@ -29,6 +29,6 @@ This short video gives an overview of how to calibrate the magnetometer.<iframe 
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -261,6 +261,6 @@ Includes the **=** key.
 |Availability of features:<ul><li>Spell check: on by default, can be disabled</li><li>Auto-correction: always disabled</li><li>Automatic capitalization: always enabled</li><li>Text prediction: always disabled</li></ul> | Availability of features:<ul><li>Spell check: off by default, can be enabled</li><li>Auto-correction: off by default, can be enabled</li><li>Automatic capitalization: off by default, can be enabled. First letter of each word is capitalized.</li><li>Text prediction: off by default, can be enabled</li></ul> |
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

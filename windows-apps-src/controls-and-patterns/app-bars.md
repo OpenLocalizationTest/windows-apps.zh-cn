@@ -288,6 +288,6 @@ Consider logical groupings for the commands, such as placing Reply, Reply All, a
             ](https://msdn.microsoft.com/library/windows/apps/dn279427)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

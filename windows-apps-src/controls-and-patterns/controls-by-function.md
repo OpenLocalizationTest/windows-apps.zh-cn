@@ -844,6 +844,6 @@ Reference: [ToggleSwitch](https://msdn.microsoft.com/library/windows/apps/xaml/w
 Design and how-to: [Toggle control guide](toggles.md) 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

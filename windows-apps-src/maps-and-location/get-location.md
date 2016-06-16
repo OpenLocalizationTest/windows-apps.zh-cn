@@ -263,6 +263,6 @@ Before your app can access the user's location, **Location** must be enabled on 
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

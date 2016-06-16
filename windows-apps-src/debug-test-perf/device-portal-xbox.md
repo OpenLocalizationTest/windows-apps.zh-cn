@@ -33,6 +33,6 @@ Device Portal on Xbox provides a set of standard pages. For detailed description
 - Networking
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

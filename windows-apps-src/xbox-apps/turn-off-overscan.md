@@ -13,6 +13,6 @@ By default, applications will have borders placed at the edges of the viewport. 
 Note: C++/DirectX applications do not have to worry about this. The system will always render your application to the edge of the screen.
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

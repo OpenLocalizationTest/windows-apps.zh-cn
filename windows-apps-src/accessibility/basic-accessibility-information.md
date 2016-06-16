@@ -143,6 +143,6 @@ Note that attached properties such as the [**AutomationProperties**](https://msd
 * [Accessibility testing](accessibility-testing.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

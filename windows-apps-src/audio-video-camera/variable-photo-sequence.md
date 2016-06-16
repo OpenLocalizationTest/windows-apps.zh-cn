@@ -96,6 +96,6 @@ When you are done capturing variable photo sequences or your app is suspending, 
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

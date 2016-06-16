@@ -424,6 +424,6 @@ The project should now build. Run the project and verify that you can make toast
 * [Creating Windows Runtime Components in C++](creating-windows-runtime-components-in-cpp.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

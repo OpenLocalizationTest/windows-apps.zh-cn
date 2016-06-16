@@ -139,6 +139,6 @@ Visit the following in-depth Windows Store game game development articles:
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

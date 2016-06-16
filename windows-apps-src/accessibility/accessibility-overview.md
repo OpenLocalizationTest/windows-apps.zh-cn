@@ -174,6 +174,6 @@ Microsoft DirectX content that's hosted in a XAML UI (using [**SwapChainPanel**]
 * [XAML accessibility sample](http://go.microsoft.com/fwlink/p/?linkid=238570)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

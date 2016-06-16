@@ -390,6 +390,6 @@ The next topic is [Porting for I/O, device, and app model](wpsl-to-uwp-input-and
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

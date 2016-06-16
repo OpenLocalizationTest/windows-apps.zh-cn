@@ -134,6 +134,6 @@ The purpose behind this cycling feature is to keep the focus sounds from becomin
 * [Designing for Xbox and TV](http://go.microsoft.com/fwlink/?LinkId=760736)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

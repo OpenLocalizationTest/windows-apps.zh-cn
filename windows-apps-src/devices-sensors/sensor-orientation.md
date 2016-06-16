@@ -166,6 +166,6 @@ The [**OrientationSensor**](https://msdn.microsoft.com/library/windows/apps/BR20
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

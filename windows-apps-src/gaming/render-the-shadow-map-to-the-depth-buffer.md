@@ -152,6 +152,6 @@ In the next part of this walkthrough, learn how to add shadows by [rendering wit
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

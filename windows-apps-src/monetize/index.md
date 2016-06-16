@@ -28,6 +28,6 @@ For details about the fees charged by the Windows Store and how you get paid for
 | [Use Windows Store services](using-windows-store-services.md)                                    | The Windows Store exposes several services that you can call via REST APIs to programmatically access certain types of data for apps that are registered to your or your organization's Windows Dev Center account.    |
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

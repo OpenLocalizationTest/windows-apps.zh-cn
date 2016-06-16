@@ -255,6 +255,6 @@ The **PayPal** column indicates whether PayPal is a supported payment method tha
  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

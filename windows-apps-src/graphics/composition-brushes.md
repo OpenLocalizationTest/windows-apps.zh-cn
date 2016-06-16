@@ -119,6 +119,6 @@ Sometimes, the contents of the [**ICompositionSurface**](https://msdn.microsoft.
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

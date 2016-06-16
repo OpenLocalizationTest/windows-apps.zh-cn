@@ -142,6 +142,6 @@ The **New Sample Data** feature uses [**DataContext**](https://msdn.microsoft.co
 ![Sample data for prototyping.](images/displaying-data-in-the-designer-04.png)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

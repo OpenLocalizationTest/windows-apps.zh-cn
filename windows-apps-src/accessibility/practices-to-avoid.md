@@ -32,6 +32,6 @@ Lists the practices to avoid if you want to create an accessible Universal Windo
 * [Accessibility checklist](accessibility-checklist.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

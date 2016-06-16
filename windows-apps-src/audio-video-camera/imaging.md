@@ -131,6 +131,6 @@ You can transcode an image file directly from a [**BitmapDecoder**](https://msdn
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

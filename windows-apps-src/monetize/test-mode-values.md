@@ -72,6 +72,6 @@ Here are the test values to use for video interstitial and banner ads.
  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

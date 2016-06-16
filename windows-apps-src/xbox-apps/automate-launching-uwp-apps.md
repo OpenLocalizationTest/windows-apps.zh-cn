@@ -204,6 +204,6 @@ Platform::String^ argval = launchArgs->Arguments;
 In summary, you can use various methods to launch the UWP app. Depending on the requirements and use cases, different methods may be better suited than others. 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

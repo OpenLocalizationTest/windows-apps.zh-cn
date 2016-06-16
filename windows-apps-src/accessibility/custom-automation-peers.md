@@ -501,6 +501,6 @@ Beyond this, peers should be relatively conservative regarding exceptions that t
 * [Control patterns and interfaces](control-patterns-and-interfaces.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -36,6 +36,6 @@ The active canvas pattern consists of a content area and a command area.
 -   [**App bar and command bar**](app-bars.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

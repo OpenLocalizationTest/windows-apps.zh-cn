@@ -91,6 +91,6 @@ Create a [**BitmapPropertySet**](https://msdn.microsoft.com/library/windows/apps
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

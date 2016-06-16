@@ -296,6 +296,6 @@ And now we can choose to remove `ItemsPath="BookSkus"` if we like and the app wi
 This case study involved a more ambitious user interface than the previous one. All of the facilities and concepts of the Windows Phone Silverlight**LongListSelector**—and more—were found to be available to a UWP app in the form of **SemanticZoom**, **ListView**, **GridView**, and **CollectionViewSource**. We showed how to re-use, or copy-and-edit, both imperative code and markup in a UWP app to achieve functionality, UI, and interactions tailored to suit the narrowest and widest Windows device form factors and all sizes in-between.
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

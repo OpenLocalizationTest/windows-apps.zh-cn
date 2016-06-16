@@ -897,6 +897,6 @@ Designing for the 10-foot experience has special considerations to take into acc
 - [Sound in UWP apps](../style/sound.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -123,6 +123,6 @@ Windows 8 supports three types of rotation: free, constrained, and combined.
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

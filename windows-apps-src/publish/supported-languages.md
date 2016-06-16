@@ -134,6 +134,6 @@ These are the languages that the Windows Store supports. Your app must support a
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

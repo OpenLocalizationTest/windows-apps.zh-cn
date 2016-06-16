@@ -39,6 +39,6 @@ For more information, see [What is the difference: AdMediatorControl or AdContro
 * [Monetize your app with ads]( http://go.microsoft.com/fwlink/p/?LinkId=699559)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

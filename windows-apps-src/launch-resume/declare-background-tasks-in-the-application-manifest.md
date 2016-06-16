@@ -149,6 +149,6 @@ The following example is the complete Application element from the [background t
 * [Guidelines for background tasks](guidelines-for-background-tasks.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

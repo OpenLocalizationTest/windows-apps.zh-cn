@@ -35,6 +35,6 @@ To opt in to community ads:
 * [Create an ad campaign for your app](create-an-ad-campaign-for-your-app.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

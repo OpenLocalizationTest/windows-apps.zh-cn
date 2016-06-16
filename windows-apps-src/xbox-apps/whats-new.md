@@ -29,6 +29,6 @@ The following improvements have been made to the XAML platform:
 - [Known Issues](known-issues.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

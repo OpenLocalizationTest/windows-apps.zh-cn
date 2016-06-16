@@ -55,6 +55,6 @@ If your app calls, supports, contains, or uses cryptography or encryption for an
 If you don't have an ECCN, see [ECCN Questions and Answers](http://go.microsoft.com/fwlink/p/?LinkID=245646).
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

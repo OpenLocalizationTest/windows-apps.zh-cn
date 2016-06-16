@@ -137,6 +137,6 @@ The next topic is [Porting for form factor and UX](wpsl-to-uwp-form-factors-and-
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

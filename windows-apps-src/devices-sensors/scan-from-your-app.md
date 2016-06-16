@@ -170,6 +170,6 @@ Users can scan to any folder dynamically using the [**FolderPicker**](https://ms
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

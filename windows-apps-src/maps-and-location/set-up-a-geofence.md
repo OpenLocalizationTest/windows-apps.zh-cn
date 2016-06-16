@@ -478,6 +478,6 @@ Before your app can access location, **Location** must be enabled on the device.
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

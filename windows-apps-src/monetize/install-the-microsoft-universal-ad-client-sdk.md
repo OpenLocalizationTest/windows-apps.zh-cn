@@ -7,6 +7,6 @@ redirect_url: https://msdn.microsoft.com/windows/uwp/monetize/monetize-your-app-
 ---
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

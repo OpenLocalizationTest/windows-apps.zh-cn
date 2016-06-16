@@ -3,6 +3,6 @@ author: Mtoepke
 This topic lists XAML samples for developers of Xbox One apps.
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

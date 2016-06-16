@@ -63,6 +63,6 @@ Here we provide a checklist you can use to ensure that your app is accessible.
 * [Practices to avoid](practices-to-avoid.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

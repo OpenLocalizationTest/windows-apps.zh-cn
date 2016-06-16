@@ -75,6 +75,6 @@ Other libraries in the SDK, including Microsoft.Advertising.dll for other target
 * [Launch Feedback Hub from your app](launch-feedback-hub-from-your-app.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

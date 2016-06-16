@@ -73,6 +73,6 @@ When an app that declares the Location capability in its app package manifest ru
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

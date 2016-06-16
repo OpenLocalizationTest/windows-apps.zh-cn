@@ -72,6 +72,6 @@ Device Portal on mobile devices provides the standard set of pages. For detailed
 - Networking
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

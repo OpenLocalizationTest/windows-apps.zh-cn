@@ -221,6 +221,6 @@ For more info, see [Launch the People app](launch-people-apps.md).
  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -166,6 +166,6 @@ Sends keyboard input from the remote machine to the HoloLens.
 Click or tap the region under Virtual keyboard to enable sending keystrokes to the HoloLens. Type in the Input text textbox and click or tap Send to send the keystrokes to the active app.
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

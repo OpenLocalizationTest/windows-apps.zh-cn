@@ -72,6 +72,6 @@ The following table connects some of the capabilities to Windows Runtime APIs.
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

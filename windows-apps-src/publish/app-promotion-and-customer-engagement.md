@@ -28,6 +28,6 @@ Once your app is in the Windows Store, it's time to get it in front of as many c
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

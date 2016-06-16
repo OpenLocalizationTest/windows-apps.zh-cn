@@ -192,6 +192,6 @@ This guidance is also useful for apps such as photo albums or mapping apps that 
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

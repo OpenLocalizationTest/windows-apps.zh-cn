@@ -129,6 +129,6 @@ If you need to use receipts to verify that user made an in-app purchase, be sure
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

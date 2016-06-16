@@ -90,6 +90,6 @@ For a more detailed look at the UWP, read the [Guide to Universal Windows Platfo
 * [Get set up](get-set-up.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

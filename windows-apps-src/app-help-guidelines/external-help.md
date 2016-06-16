@@ -38,6 +38,6 @@ External help pages are the ideal place to provide users with tutorials and walk
 * [Guidelines for app help](guidelines-for-app-help.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

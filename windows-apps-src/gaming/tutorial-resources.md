@@ -1515,6 +1515,6 @@ To download a version of the sample game that uses XAML for the overlay, go to t
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

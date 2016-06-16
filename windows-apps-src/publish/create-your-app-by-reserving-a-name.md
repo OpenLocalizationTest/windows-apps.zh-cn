@@ -60,6 +60,6 @@ For more info, see [Manage app names](manage-app-names.md).
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

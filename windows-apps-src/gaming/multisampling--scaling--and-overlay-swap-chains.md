@@ -324,6 +324,6 @@ Use the following steps to create a foreground swap chain that uses hardware ove
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

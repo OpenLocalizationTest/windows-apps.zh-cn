@@ -41,6 +41,6 @@ You use the APIs in the [Windows.Storage](https://msdn.microsoft.com/library/win
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

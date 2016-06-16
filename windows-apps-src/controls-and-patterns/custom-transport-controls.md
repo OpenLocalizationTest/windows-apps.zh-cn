@@ -270,6 +270,6 @@ private void MediaElement_MediaOpened(object sender, RoutedEventArgs e)
 - [Media playback](media-playback.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -113,6 +113,6 @@ When you do use **TemplateSettings** values as part of your control template, ma
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

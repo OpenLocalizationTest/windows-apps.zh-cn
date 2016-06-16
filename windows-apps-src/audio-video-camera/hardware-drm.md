@@ -93,6 +93,6 @@ You can also use the [**PlayReadyStatics.PlayReadyCertificateSecurityLevel**](ht
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

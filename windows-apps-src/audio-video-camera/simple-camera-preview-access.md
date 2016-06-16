@@ -84,6 +84,6 @@ It's simple to get a still image from the media capture preview stream in the fo
 * [Get a preview frame](get-a-preview-frame.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

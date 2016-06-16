@@ -184,6 +184,6 @@ Understanding HLSL semantics and the packing of constant buffers can save you a 
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

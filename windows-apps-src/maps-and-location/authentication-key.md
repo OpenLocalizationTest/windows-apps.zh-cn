@@ -91,6 +91,6 @@ To use services in the [**Windows.Services.Maps**](https://msdn.microsoft.com/li
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

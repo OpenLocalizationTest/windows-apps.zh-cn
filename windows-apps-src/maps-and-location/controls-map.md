@@ -69,6 +69,6 @@ This example shows an app with both an aerial 3D view and a Streetside view:
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

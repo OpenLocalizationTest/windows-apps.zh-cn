@@ -100,6 +100,6 @@ When your app is done capturing, before disposing of the **MediaCapture** object
 * [Capture photos and video with MediaCapture](capture-photos-and-video-with-mediacapture.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

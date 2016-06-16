@@ -170,6 +170,6 @@ These new values are written to the TextBlocks found in the project's XAML.
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

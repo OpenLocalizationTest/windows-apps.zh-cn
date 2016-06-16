@@ -105,6 +105,6 @@ For more information, see [Deploying and debugging Universal Windows Platform (U
             &nbsp;&nbsp;If the Surface Hub is on the welcome screen, dismiss it by choosing any button.
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

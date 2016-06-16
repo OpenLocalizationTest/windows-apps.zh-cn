@@ -71,6 +71,6 @@ This topic has shown you how to launch the compose email dialog. For information
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

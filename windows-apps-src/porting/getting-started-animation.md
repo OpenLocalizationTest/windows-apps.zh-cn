@@ -126,6 +126,6 @@ You can edit this XAML manually, or return to Blend to continue working on it th
 [Getting started: What next?](getting-started-what-next.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

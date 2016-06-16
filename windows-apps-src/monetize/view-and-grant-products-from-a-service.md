@@ -175,6 +175,6 @@ Here is an example of a decoded Windows Store ID key claim set.
  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

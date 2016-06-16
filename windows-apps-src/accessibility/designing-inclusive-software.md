@@ -102,6 +102,6 @@ In summary, follow these seven steps to ensure your software is inclusive.
 * [Developing inclusive Windows apps](developing-inclusive-windows-apps.md)  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

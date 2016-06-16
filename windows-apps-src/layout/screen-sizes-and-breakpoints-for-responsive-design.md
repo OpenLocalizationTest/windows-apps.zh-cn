@@ -94,6 +94,6 @@ With [**Continuum for Phones**](http://go.microsoft.com/fwlink/p/?LinkID=699431)
  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -226,6 +226,6 @@ This example displays a collection of XAML elements bound to a [**MapItemsContro
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

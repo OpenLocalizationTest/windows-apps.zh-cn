@@ -127,6 +127,6 @@ Save passwords in the credential locker only if the following criteria are met:
 
 Never store credentials in plain-text using app data or roaming settings.
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

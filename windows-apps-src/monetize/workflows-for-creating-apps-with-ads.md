@@ -61,6 +61,6 @@ After your app is published and available in the Windows Store, you can review y
  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

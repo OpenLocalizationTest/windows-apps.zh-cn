@@ -246,6 +246,6 @@ For general guidance oncreating media compositions from video clips, see [Media 
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

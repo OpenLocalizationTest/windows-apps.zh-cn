@@ -522,6 +522,6 @@ We loaded raw texture data and applied that data to a 3D primitive.
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

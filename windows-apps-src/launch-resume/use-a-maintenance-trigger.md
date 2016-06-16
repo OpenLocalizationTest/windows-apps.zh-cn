@@ -118,6 +118,6 @@ This example code creates a trigger that runs once an hour:
  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

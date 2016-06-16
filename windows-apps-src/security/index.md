@@ -47,6 +47,6 @@ The cryptography section contains information on more complex, cryptographic rel
 | [Common cryptography tasks](common-cryptography-tasks.md)                     | These articles provide example code for common cryptography tasks, such as creating random numbers, comparing buffers, converting between strings and binary data, copying to and from byte arrays, and encoding and decoding data.                                                                                                                                                                                                                                                                                    |
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -126,6 +126,6 @@ You can learn more by downloading the [Raw notifications sample](http://go.micro
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

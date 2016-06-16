@@ -71,6 +71,6 @@ A complex component usually includes Windows resources, but see the note about d
 * [MakePRI.exe command options](https://msdn.microsoft.com/library/windows/apps/jj552945.aspx)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

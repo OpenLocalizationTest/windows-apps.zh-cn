@@ -81,6 +81,6 @@ Table 2: UWP types that map to .NET Framework types with the same name and names
 * [Creating Windows Runtime Components in C# and Visual Basic](creating-windows-runtime-components-in-csharp-and-visual-basic.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

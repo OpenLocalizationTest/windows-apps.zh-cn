@@ -228,6 +228,6 @@ You might wonder why the panel wouldn't instead choose 5x2 for 10 items, because
 [Alignment, margin, and padding](alignment-margin-padding.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

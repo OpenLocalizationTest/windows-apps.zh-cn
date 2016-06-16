@@ -676,6 +676,6 @@ The key to achieve the security protections enumerated above is to protect HMAC 
 - Make sure that user presence signal is available.
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

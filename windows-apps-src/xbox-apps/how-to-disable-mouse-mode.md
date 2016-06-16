@@ -22,6 +22,6 @@ To turn off mouse mode, add the following to a JavaScript file in your applicati
 If you are writing a C++/DirectX app, there's nothing to do. Mouse mode only applies to HTML and XAML applications.
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

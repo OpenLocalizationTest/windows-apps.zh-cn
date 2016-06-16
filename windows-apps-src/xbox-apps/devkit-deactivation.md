@@ -84,6 +84,6 @@ If you didn't previously return your Xbox One console to Retail Mode, do so now.
 - [UWP on Xbox One](index.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

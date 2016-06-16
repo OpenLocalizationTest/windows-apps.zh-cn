@@ -40,6 +40,6 @@ All UWP apps and the majority of single user games can be written to be SUA. We 
 - [UWP on Xbox One](index.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

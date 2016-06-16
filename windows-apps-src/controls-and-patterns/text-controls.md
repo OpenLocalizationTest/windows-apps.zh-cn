@@ -160,6 +160,6 @@ Your app can insert a paragraph separator between paragraphs of text. Use of thi
 - [String.Length property](https://msdn.microsoft.com/library/system.string.length.aspx)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

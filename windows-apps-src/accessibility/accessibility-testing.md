@@ -144,6 +144,6 @@ One aspect that you can test is whether there are elements appearing in the UI A
 * [Accessibility in Windows](http://go.microsoft.com/fwlink/p/?LinkId=320802)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -115,6 +115,6 @@ To enable WDP on your Xbox One console:
 ----
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

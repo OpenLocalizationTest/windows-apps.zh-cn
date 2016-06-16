@@ -320,6 +320,6 @@ When your app is shutting down or the user moves away from the media capture pag
 * [CameraStarterKit sample](http://go.microsoft.com/fwlink/?LinkId=619479)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

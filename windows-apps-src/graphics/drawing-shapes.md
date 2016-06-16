@@ -195,6 +195,6 @@ Using [**PathGeometry**](https://msdn.microsoft.com/library/windows/apps/BR21016
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

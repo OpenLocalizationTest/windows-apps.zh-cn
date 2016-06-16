@@ -32,6 +32,6 @@ You can opt out of scale factor by using the following code snippet:
 DirectX/C++ applications are not scaled. Automatic scaling only applies to HTML and XAML applications.   
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

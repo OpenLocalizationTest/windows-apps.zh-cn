@@ -310,6 +310,6 @@ You can use more than one [**DiscreteObjectKeyFrame**](https://msdn.microsoft.co
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

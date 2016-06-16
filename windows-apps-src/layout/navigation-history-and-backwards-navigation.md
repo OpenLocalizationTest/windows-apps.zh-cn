@@ -307,6 +307,6 @@ When the user switches to another app and returns to your app, we recommend retu
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

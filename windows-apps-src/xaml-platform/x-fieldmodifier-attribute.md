@@ -33,6 +33,6 @@ You can also specify **NonPublic** (**internal** in C# or C++/CX, **Friend** in 
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

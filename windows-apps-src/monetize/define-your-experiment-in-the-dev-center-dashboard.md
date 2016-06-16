@@ -80,6 +80,6 @@ After you define your experiment in the Dev Center dashboard, you are ready for 
   * [Run app experiments with A/B testing](run-app-experiments-with-a-b-testing.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

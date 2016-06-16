@@ -157,6 +157,6 @@ You can also use more complex content by setting the [**OnContentTemplate**](htt
 - [**ToggleSwitch class**](https://msdn.microsoft.com/library/windows/apps/br209712)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

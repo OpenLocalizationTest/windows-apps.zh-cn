@@ -24,6 +24,6 @@ The following networking and web services technologies are available for Univers
 | [Tagging network connections with EDP identity](tagging_network_connections_with_edp_identity.md) | This topic shows how to create a protected thread context before creating network connections in an enterprise data protection (EDP) scenario. |
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

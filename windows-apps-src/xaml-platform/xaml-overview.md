@@ -240,6 +240,6 @@ Fore more info on debugging a Windows Runtime app, see [Start a debug session](h
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

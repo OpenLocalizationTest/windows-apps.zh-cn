@@ -237,6 +237,6 @@ The Windows Store analytics API returns error responses in a JSON object that co
  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

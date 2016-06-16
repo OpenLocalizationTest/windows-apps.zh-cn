@@ -106,6 +106,6 @@ After your app is installed, you can use notifications to customize your tile. Y
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

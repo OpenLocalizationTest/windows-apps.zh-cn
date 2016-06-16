@@ -102,6 +102,6 @@ In the Store on Windows Phone 8.1 and earlier, two image sizes can be used in pr
 In the Store on Windows 8.1 and earlier, promotional layouts may use an image in the 414 x 180 pixel size. If your app runs on Windows 8.1 or earlier, we recommend providing an image in this size for promotional consideration.
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

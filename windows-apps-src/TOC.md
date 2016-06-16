@@ -739,6 +739,6 @@
 ### [Developer Code of Conduct](https://msdn.microsoft.com/en-us/library/windows/apps/dn764941.aspx)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -44,6 +44,6 @@ After you check or uncheck this box, you do not need to republish your app for t
 * [Affiliates performance report](affiliates-performance-report.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

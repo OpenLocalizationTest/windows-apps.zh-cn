@@ -415,6 +415,6 @@ Add whatever custom options you need to the media player to provide the best exp
 - [Content design basics for UWP apps](https://msdn.microsoft.com/library/windows/apps/dn958434)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

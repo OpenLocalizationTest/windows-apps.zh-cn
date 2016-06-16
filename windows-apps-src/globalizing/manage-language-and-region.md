@@ -225,6 +225,6 @@ The following table contains examples of what the user would see in the app's UI
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -233,6 +233,6 @@ Before you get too far into developing your app, you should validate your design
 Use the [detailed UX guidelines for UWP apps](https://msdn.microsoft.com/library/windows/apps/hh465424) to stay focused on important features. Use the [Visual Studio performance tools](https://msdn.microsoft.com/library/windows/apps/hh696636.aspx) to analyze the performance of each of your app's scenarios.
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

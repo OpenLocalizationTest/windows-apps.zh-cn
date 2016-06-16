@@ -56,6 +56,6 @@ For more information on ESC/POS, including available commands, check out the [Ep
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -9,6 +9,6 @@ redirect_url: https://msdn.microsoft.com/windows/uwp/monetize/display-ads-in-you
  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -70,6 +70,6 @@ If you change the **RefreshRate** value in the AdMediator.config file, be aware 
  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

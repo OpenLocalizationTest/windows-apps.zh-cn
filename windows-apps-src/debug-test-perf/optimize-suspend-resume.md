@@ -89,6 +89,6 @@ Most apps don't need to handle the [**Resuming**](https://msdn.microsoft.com/lib
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

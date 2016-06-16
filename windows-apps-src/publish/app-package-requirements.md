@@ -80,6 +80,6 @@ StoreManifest.xml is an optional configuration file that may be included in app 
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

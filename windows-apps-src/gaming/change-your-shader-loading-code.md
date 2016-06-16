@@ -263,6 +263,6 @@ For more details on the use of semantics with Direct3D, read [HLSL Semantics](ht
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

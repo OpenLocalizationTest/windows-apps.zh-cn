@@ -56,6 +56,6 @@ For more about using the Windows Store protocol, see [Launch the Windows Store a
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

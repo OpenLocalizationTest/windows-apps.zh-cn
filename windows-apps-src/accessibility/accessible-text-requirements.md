@@ -126,6 +126,6 @@ These types have an **IsTextScaleFactorEnabled** property:
 * [XAML accessibility sample](http://go.microsoft.com/fwlink/p/?linkid=238570)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

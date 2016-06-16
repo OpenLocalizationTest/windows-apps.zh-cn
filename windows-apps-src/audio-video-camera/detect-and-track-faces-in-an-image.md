@@ -96,6 +96,6 @@ Call [**ProcessNextFrameAsync**](https://msdn.microsoft.com/library/windows/apps
 * [Capture photos and video with MediaCapture](capture-photos-and-video-with-mediacapture.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

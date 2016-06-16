@@ -57,6 +57,6 @@ The next topic is [Porting XAML and UI](wpsl-to-uwp-porting-xaml-and-ui.md).
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

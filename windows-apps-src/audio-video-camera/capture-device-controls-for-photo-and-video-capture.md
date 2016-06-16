@@ -338,6 +338,6 @@ Set the zoom level on the capture device by creating a new [**ZoomSettings**](ht
 * [Capture photos and video with MediaCapture](capture-photos-and-video-with-mediacapture.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

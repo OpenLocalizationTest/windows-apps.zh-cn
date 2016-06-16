@@ -31,6 +31,6 @@ You can use Visual Studio and C#, Visual Basic, or C++ to create Windows Runtime
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -65,6 +65,6 @@ When you implement a control pattern, you should also consult the UI Automation 
 * [Accessibility](accessibility.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

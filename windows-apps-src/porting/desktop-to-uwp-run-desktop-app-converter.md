@@ -223,6 +223,6 @@ The Desktop App Converter Preview now supports creation of x86 app packages that
 + [Desktop app bridge to UWP code samples on GitHub](https://github.com/Microsoft/DesktopBridgeToUWP-Samples)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

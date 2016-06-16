@@ -669,6 +669,6 @@ Use the following table to convert Direct3D 9 formats into DXGI formats.
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

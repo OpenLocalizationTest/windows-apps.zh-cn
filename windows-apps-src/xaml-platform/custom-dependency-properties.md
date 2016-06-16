@@ -370,6 +370,6 @@ The implementation for registering a property in C++/CX is trickier than C#C#, b
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

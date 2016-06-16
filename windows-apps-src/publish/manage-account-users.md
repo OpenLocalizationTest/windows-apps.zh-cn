@@ -225,6 +225,6 @@ To remove a user, group, or Azure AD application from your Dev Center account, c
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

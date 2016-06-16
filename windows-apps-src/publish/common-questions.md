@@ -56,6 +56,6 @@ Go to <http://commerce.microsoft.com>, log in with your Microsoft account creden
 * [App install ads report](app-install-ads-reports.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

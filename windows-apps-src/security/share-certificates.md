@@ -200,6 +200,6 @@ If there are no client certificates available, then the user will need to add a 
 
 You can use these steps to create multiple apps that use the same user certificate to access the same or different secured web services.
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

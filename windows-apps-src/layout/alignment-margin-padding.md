@@ -86,6 +86,6 @@ The [**Height**](https://msdn.microsoft.com/library/windows/apps/br208718) and [
 [**Control.Padding**](https://msdn.microsoft.com/library/windows/apps/br209459)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

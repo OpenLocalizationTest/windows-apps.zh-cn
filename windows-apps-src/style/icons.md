@@ -172,6 +172,6 @@ Badges should be sized to 10–18 px on a 32 px × 32 px grid.
 * [Guidelines for tile and icon assets](../controls-and-patterns/tiles-and-notifications-app-assets.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

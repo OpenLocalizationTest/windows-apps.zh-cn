@@ -53,6 +53,6 @@ Your app's **Store ID** is also shown in this section. This Store ID can be used
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

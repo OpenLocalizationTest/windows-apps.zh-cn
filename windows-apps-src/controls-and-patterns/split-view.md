@@ -58,6 +58,6 @@ The split view control in its default form is a basic container. Here is an exam
  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

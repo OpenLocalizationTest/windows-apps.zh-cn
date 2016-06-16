@@ -138,6 +138,6 @@ The following table lists the which policies are enforced on which device types.
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

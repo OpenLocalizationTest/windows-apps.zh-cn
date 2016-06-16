@@ -160,6 +160,6 @@ In the next part of this walkthrough, learn how to [Support shadow maps on a ran
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -109,6 +109,6 @@ If your app doesn't have any displayed content to refresh, there's no need for i
 * [App lifecycle](app-lifecycle.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

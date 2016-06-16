@@ -140,6 +140,6 @@ C# is an easy language to pick up, and comes with the many support classes and f
 [Getting started: Getting around in Visual Studio](getting-started-getting-around-in-visual-studio.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

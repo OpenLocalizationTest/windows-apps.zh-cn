@@ -1611,6 +1611,6 @@ Use glyphs from the following list for an [**AppBar**](https://msdn.microsoft.co
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

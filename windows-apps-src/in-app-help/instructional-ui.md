@@ -67,6 +67,6 @@ Here are a few examples of instructional UI that can help your users:
 * [Guidelines for app help](guidelines-for-app-help.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

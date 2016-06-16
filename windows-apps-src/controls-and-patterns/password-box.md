@@ -188,6 +188,6 @@ For more info about how to use input scopes, see [Use input scope to change the 
 - [String.Length property](https://msdn.microsoft.com/library/system.string.length(v=vs.110).aspx)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

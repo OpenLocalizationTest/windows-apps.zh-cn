@@ -180,6 +180,6 @@ However, proper names change their meaning when capitalized in certain languages
 * [Text controls](../controls-and-patterns/text-controls.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

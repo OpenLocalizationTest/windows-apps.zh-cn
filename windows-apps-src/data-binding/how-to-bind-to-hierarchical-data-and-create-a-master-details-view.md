@@ -220,6 +220,6 @@ Note that by binding directly to the [**CollectionViewSource**](https://msdn.mic
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

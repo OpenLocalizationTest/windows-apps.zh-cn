@@ -51,6 +51,6 @@ In Visual Studio, there are also several project templates to choose from, as sh
 [Getting started: Choosing a programming language](getting-started-choosing-a-programming-language.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

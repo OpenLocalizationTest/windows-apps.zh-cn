@@ -260,6 +260,6 @@ In the next part of this walkthrough, learn how to create the shadow map by [ren
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -49,6 +49,6 @@ When you submit your app package to the Windows Dev Center dashboard, the config
  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

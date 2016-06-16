@@ -118,6 +118,6 @@ Not all devices have a capture device that can adjust its focus and exposure bas
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

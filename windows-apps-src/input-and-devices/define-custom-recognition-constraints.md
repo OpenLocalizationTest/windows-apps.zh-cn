@@ -242,6 +242,6 @@ To prompt the user for what can be spoken, use the [**SpeechRecognizerUIOptions.
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

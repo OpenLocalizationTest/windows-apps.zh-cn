@@ -43,6 +43,6 @@ Once your app has been published with the new name, you can delete the old name 
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

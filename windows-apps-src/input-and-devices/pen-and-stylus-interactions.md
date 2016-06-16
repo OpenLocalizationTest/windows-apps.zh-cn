@@ -487,6 +487,6 @@ For a full example of this functionality, see the [Complex ink sample](http://go
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

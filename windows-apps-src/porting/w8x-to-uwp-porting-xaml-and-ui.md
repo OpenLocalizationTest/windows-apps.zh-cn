@@ -488,6 +488,6 @@ The next topic is [Porting for I/O, device, and app model](w8x-to-uwp-input-and-
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

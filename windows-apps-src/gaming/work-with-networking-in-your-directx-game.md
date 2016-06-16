@@ -387,6 +387,6 @@ using namespace Windows::Web::Http;
 * [StreamSocket sample](http://go.microsoft.com/fwlink/p/?linkid=243037)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

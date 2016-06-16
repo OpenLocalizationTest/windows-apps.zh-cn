@@ -26,6 +26,6 @@ For **application development**, it's important to keep in mind that the resourc
 For **games development**, it’s important to keep in mind that Xbox One, like other games consoles, is a specialized piece of hardware that requires a specific hardware-based development kit to access its full potential. If you are working on a game that requires access to the maximum potential of the Xbox One hardware, you can register with the [ID@Xbox](http://www.xbox.com/en-us/Developers/id) program to get access to Xbox One development kits, which include DirectX 12 support.
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

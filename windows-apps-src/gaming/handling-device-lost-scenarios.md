@@ -172,6 +172,6 @@ Visual Studio's Developer Command Prompt supports a command line tool 'dxcap' fo
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

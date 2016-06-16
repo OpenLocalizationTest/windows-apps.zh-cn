@@ -166,6 +166,6 @@ Some properties are common across all [**DeviceInformationKind**](https://msdn.m
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -136,6 +136,6 @@ This example XAML uses **{x:Bind}** with a **ListView.ItemTemplate** property. N
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -155,6 +155,6 @@ Overall, when designing your UWP app, use the [**CoreDispatcher**](https://msdn.
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

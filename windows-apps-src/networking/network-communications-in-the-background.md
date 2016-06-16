@@ -594,6 +594,6 @@ For more information on using [**IXMLHTTPRequest2**](https://msdn.microsoft.com/
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

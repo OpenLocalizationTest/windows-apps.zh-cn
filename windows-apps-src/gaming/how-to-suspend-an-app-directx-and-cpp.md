@@ -150,6 +150,6 @@ The system doesn't notify an app when it's terminated, so your app must save its
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

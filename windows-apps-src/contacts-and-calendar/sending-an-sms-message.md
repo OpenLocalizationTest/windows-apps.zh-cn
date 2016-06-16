@@ -55,6 +55,6 @@ This topic has shown you how to launch the compose SMS dialog. For information o
 * [Select contacts](selecting-contacts.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

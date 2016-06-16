@@ -237,6 +237,6 @@ Keyboard shortcuts aren't typically relevant for Windows Phone apps, because a S
  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

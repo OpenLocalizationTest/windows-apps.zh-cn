@@ -226,6 +226,6 @@ Now that we have a device handle and a full-screen render target, we are ready t
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

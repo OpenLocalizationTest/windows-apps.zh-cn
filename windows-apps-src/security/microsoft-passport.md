@@ -449,6 +449,6 @@ Mission accomplished! You just made the Internet a safer place!
 * [Microsoft Passport login app](microsoft-passport-login.md)
 * [Microsoft Passport login service](microsoft-passport-login-auth-service.md)
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

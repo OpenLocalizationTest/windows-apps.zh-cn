@@ -80,6 +80,6 @@ For more detail, please see the full [Accessibility checklist](accessibility-che
 * [Microsoft accessibility developer hub](https://msdn.microsoft.com/enable)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

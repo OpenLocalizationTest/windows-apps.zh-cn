@@ -86,6 +86,6 @@ The default placeholder text is "select a date". You can remove this by setting 
 - [Time picker](time-picker.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

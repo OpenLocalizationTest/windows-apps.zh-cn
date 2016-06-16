@@ -172,6 +172,6 @@ Apps can switch to using high-contrast resource values while the app is running.
 * [**AccessibilitySettings**](https://msdn.microsoft.com/library/windows/apps/BR242237)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

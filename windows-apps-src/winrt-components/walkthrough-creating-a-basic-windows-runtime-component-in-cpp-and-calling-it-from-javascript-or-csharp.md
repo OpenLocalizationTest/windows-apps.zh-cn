@@ -630,6 +630,6 @@ If you remove a C++ Windows Runtime Component project from a solution, you must 
 * [Creating Windows Runtime Components in C++](creating-windows-runtime-components-in-cpp.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -105,6 +105,6 @@ Apps can register background tasks that respond to [**TimeTrigger**](https://msd
  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

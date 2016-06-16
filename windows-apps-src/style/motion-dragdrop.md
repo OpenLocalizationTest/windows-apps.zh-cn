@@ -66,6 +66,6 @@ Use drag-and-drop animations when users move objects, such as moving an item wit
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

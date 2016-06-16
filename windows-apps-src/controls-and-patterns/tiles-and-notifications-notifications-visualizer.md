@@ -64,6 +64,6 @@ This screenshot from the app shows the tile editor:
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

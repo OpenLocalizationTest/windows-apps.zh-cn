@@ -59,6 +59,6 @@ A **TemplateBinding** is always a one-way binding. Both properties involved must
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -313,6 +313,6 @@ When structuring your Direct3D, separate the code that calls methods on [**ID3D1
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

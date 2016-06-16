@@ -28,6 +28,6 @@ Learn how to launch, suspend, and resume your Universal Windows Platform (UWP) D
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -132,6 +132,6 @@ If your app needs to use a geofence with a small radius, advise users to use you
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

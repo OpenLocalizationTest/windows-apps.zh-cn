@@ -508,6 +508,6 @@ The next topic is [Porting the project](wpsl-to-uwp-porting-to-a-uwp-project.md)
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

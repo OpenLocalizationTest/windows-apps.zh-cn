@@ -110,6 +110,6 @@ On mobile devices, one hub section is visible at a time.
 - [Using a hub](https://msdn.microsoft.com/library/windows/apps/xaml/dn308518)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

@@ -135,6 +135,6 @@ The **OnCompleted** event handler is called when the background task has finishe
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

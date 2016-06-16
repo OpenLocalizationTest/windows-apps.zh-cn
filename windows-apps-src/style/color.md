@@ -99,6 +99,6 @@ Each color is available as a XAML [theme resource](https://msdn.microsoft.com/li
 Our palette is optimized for screen usage. We recommend maintaining a contrast ratio for text of 4.5:1 against the background for optimal readability. There are many free tools available to test whether or not your colors pass, like [Contrast Ratio](http://leaverou.github.io/contrast-ratio/).
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

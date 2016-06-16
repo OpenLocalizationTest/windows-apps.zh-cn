@@ -127,6 +127,6 @@ Learn how to use tiles, badges, toasts, and notifications to provide entry point
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

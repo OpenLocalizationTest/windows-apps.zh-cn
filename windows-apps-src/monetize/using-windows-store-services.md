@@ -29,6 +29,6 @@ The Windows Store exposes several services that you can call via REST APIs to pr
  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

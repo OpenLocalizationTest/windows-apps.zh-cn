@@ -183,6 +183,6 @@ In order to protect against [CSRF attacks](https://wikipedia.org/wiki/Cross-site
 **Note**: a username that begins with "auto-" will not be able to log into Device Portal via the browser.  
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

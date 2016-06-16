@@ -190,6 +190,6 @@ This example displays the following on a [**MapControl**](https://msdn.microsoft
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

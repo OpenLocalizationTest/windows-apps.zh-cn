@@ -33,6 +33,6 @@ We think that Windows 10 will open up new app-building opportunities for you. We
 * [Building apps for Windows blog](https://blogs.windows.com/buildingapps/2016/01/27/visual-studio-walkthrough-for-ios-developers/)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

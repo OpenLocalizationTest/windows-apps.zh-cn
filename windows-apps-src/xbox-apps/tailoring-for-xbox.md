@@ -18,6 +18,6 @@ By default, there will be borders around your application. To remove these borde
 By default, your application will be scaled to 200% if you are using XAML or 150% for HTML. It is possible to turn off automatic scaling.  [Learn more](disable-scaling.md)
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

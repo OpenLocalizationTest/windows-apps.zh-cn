@@ -28,6 +28,6 @@ XY focus navigation enables the user to navigate around your app's UI.
 Mouse mode lets your app emulate a mouse experience when XY focus navigation isn't sufficient.
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

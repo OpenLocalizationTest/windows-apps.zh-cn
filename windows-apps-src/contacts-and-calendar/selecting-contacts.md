@@ -225,6 +225,6 @@ Now you have a basic understanding of how to use the contact picker to retrieve 
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

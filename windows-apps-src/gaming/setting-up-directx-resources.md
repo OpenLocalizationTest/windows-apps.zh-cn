@@ -293,6 +293,6 @@ Next, we also draw a triangle on the display.
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 

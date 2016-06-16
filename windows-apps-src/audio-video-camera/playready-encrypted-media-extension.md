@@ -300,6 +300,6 @@ Refer to the [sample applications](https://code.msdn.microsoft.com/windowsapps/P
 
 
 
-<!--HONumber=Jun16_HO2-->
+<!--HONumber=Jun16_HO3-->
 
 
